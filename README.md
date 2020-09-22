@@ -3,4 +3,4 @@
 🔭 I'm usually around looking for new repositories or recreating ideas that I then publish.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dm94&theme=gruvbox)
-![Github stats](https://github-readme-stats.vercel.app/api?username=dm94&show_icons=true&theme=gruvbox)
+![Github stats](https://github-readme-stats.vercel.app/api?username=dm94&show_icons=true&theme=gruvbox&layout=compact)
