@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dm94&icon=0&color=0)](https://visitcount.itsvg.in)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dm94dani.visitor-badge)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dm94dani) 
