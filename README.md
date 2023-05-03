@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dm94dani.visitor-badge)
+![](https://komarev.com/ghpvc/?username=dm94)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dm94dani) 
