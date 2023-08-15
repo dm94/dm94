@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel Martín (Dm94Dani)</h1>
 
-🔭 I'm usually around looking for new repositories or recreating ideas that I then publish.<br>
+🔭 I am a proactive person and passionate about programming so in my free time I'm always looking for new projects to do or contribute to, especially if they are open source, that's why I consider my favourite social network to be GitHub.
+
+During my career, I have worked with a wide range of programming languages, including Java, PHP, JavaScript and frameworks/libraries, such as React, Node or Vue.
+
+One of the things I love about programming is that it allows me to transform my ideas into reality and also that thanks to some projects I have been able to meet many people with whom I have cooperated.
 
 ## Languages/frameworks
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
