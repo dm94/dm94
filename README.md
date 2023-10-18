@@ -21,4 +21,4 @@ One of the things I love about programming is that it allows me to transform my 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=dm94) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FcecRtZ) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dm94dani) 
+![Profile Views](https://komarev.com/ghpvc/?username=dm94) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FcecRtZ) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deeme)
