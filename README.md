@@ -21,6 +21,5 @@ One of the things I love about programming is that it allows me to transform my 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=dm94) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FcecRtZ) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deeme)
-
-![Discord Members](https://img.shields.io/discord/317737508064591874)
+[![Profile Views](https://komarev.com/ghpvc/?username=dm94)](https://github.com/dm94?tab=repositories) [![Discord Members](https://img.shields.io/discord/317737508064591874?logo=Discord&label=Discord&style=flat-square&logoColor=white)](https://discord.deeme.dev/)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deeme)
