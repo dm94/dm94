@@ -22,3 +22,6 @@ One of the things I love about programming is that it allows me to transform my 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dm94) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FcecRtZ) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deeme)
+
+![Discord Members](https://img.shields.io/badge/dynamic/json?
+url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2F8tcX9zx%3Fwith_counts%3Dtrue%26query%3D%24.approximate_member_count%26logo%3Ddiscord%26logoColor%3Dwhite%26label%3DUsers%20Total%26color%3Dgreen)
