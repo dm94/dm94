@@ -15,6 +15,10 @@ One of the things I love about programming is that it allows me to transform my 
 
 ---
 
+![](https://github-profile-trophy.vercel.app/?username=dm94&theme=onedark)
+
+---
+
 ![](https://github-readme-stats.vercel.app/api?username=dm94&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ---
