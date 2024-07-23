@@ -15,7 +15,7 @@ One of the things I love about programming is that it allows me to transform my 
 
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=dm94&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=dm94&theme=onedark&no-bg=true&no-frame=true)
 
 ---
 
