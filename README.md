@@ -15,21 +15,5 @@ One of the things I love about programming is that it allows me to transform my 
 
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=dm94&theme=onedark&no-bg=true&no-frame=true)
-
----
-
-![](https://github-readme-stats.vercel.app/api?username=dm94&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
----
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=dm94&theme=dark&hide_border=false)
-
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dm94&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
 [![Profile Views](https://komarev.com/ghpvc/?username=dm94)](https://github.com/dm94?tab=repositories) [![Discord Members](https://img.shields.io/discord/317737508064591874?logo=Discord&label=Discord&style=flat-square&logoColor=white)](https://discord.deeme.dev/)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deeme)
