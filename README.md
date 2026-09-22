@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Martín (Dm94Dani)</h1>
+<h1 align="center">Hi 👋, I'm Dani (Dm94Dani)</h1>
 
 🔭 I am a proactive person and passionate about programming so in my free time I'm always looking for new projects to do or contribute to, especially if they are open source, that's why I consider my favourite social network to be GitHub.
 
